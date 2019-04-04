@@ -18,6 +18,7 @@ Spanish companies which use **Elixir** to build their products.
 |---:|:---|:---|:---|:---|:---|
 | Bizneo HR | HR Software | [bizneo.com](https://www.bizneo.com/es/) | [@BizneoHR](https://twitter.com/BizneoHR) | [Bizneo](https://www.linkedin.com/company/bizneo/) | [Madrid (Madrid)](https://goo.gl/maps/VP7dmqs4ZLU2) |
 | Cabify | Transportation | [cabify.com](https://cabify.com/es) | [@cabify_espana](https://twitter.com/cabify_espana) | [Cabify](https://www.linkedin.com/company/cabify/) | [Madrid (Madrid)](https://goo.gl/maps/VP7dmqs4ZLU2) |
+ninety nine  | Market Finance | [ninetynine.com](https://www.ninetynine.com/) | - | [ninety nine](https://www.linkedin.com/company/ninety-nine-co/) | [Madrid (Madrid)](https://goo.gl/maps/7H7Z2L28CQ52) |
 
 ## Meetups
 
