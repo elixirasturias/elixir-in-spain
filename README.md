@@ -35,13 +35,15 @@ Spanish meetup groups focused in **Elixir** and **Erlang**.
 Spanish open source projects made with **Elixir**.
 
 
-| **Name** | **Made By** | **Github Repository** | **URL** | **Twitter** |
-|---:|:---|:---|:---|:---|
-| Decoratex | Rubén Sierra ([Github](https://github.com/rsierra)) | [github.com/acutario/decoratex](https://github.com/acutario/decoratex) | - | - |
-| Elixir Jobs | Óscar de Arriba ([Github](https://github.com/odarriba)) | [github.com/odarriba/elixir_jobs](https://github.com/odarriba/elixir_jobs) | [elixirjobs.net](https://elixirjobs.net/) | [@jobs_elixir](https://twitter.com/jobs_elixir) |
-| Frankt | Cristian Álvarez ([Github](https://github.com/crbelaus)) | [github.com/acutario/frankt](https://github.com/acutario/frankt) | - | - |
-| Ravenx | Óscar de Arriba ([Github](https://github.com/odarriba)) | [github.com/acutario/ravenx](https://github.com/acutario/ravenx) | - | - |
-| Trans | Cristian Álvarez ([Github](https://github.com/crbelaus)) | [github.com/crbelaus/trans](https://github.com/crbelaus/trans) | - | - |
+|     **Name** | **Made By**                                                       | **Github Repository**                                                                    | **URL**                                   | **Twitter**                                     |
+|-------------:|:------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:------------------------------------------|:------------------------------------------------|
+|    Decoratex | Rubén Sierra ([Github](https://github.com/rsierra))               | [github.com/acutario/decoratex](https://github.com/acutario/decoratex)                   | -                                         | -                                               |
+|  Elixir Jobs | Óscar de Arriba ([Github](https://github.com/odarriba))           | [github.com/odarriba/elixir_jobs](https://github.com/odarriba/elixir_jobs)               | [elixirjobs.net](https://elixirjobs.net/) | [@jobs_elixir](https://twitter.com/jobs_elixir) |
+|       Frankt | Cristian Álvarez ([Github](https://github.com/crbelaus))          | [github.com/acutario/frankt](https://github.com/acutario/frankt)                         | -                                         | -                                               |
+|       Ravenx | Óscar de Arriba ([Github](https://github.com/odarriba))           | [github.com/acutario/ravenx](https://github.com/acutario/ravenx)                         | -                                         | -                                               |
+|        Trans | Cristian Álvarez ([Github](https://github.com/crbelaus))          | [github.com/crbelaus/trans](https://github.com/crbelaus/trans)                           | -                                         | -                                               |
+| ConfigTuples | Miguel Garcia (Rock) ([Github](https://github.com/rockneurotiko)) | [github.com/rockneurotiko/config_tuples](https://github.com/rockneurotiko/config_tuples) | -                                         | -                                               |
+|       ExGram | Miguel Garcia (Rock) ([Github](https://github.com/rockneurotiko)) | [github.com/rockneurotiko/ex_gram](https://github.com/rockneurotiko/ex_gram)             | -                                         | -                                               |
 
 
 
