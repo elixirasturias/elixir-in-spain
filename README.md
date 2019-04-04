@@ -14,10 +14,11 @@ A list of meetups, companies, open source projects and other resources **made in
 
 Spanish companies which use **Elixir** to build their products.
 
-| **Name** | **Sector** | **URL** | **Twitter** | **LinkedIn** | **Location** |
-|---:|:---|:---|:---|:---|:---|
-| Bizneo HR | HR Software | [bizneo.com](https://www.bizneo.com/es/) | [@BizneoHR](https://twitter.com/BizneoHR) | [Bizneo](https://www.linkedin.com/company/bizneo/) | [Madrid (Madrid)](https://goo.gl/maps/VP7dmqs4ZLU2) |
-| Cabify | Transportation | [cabify.com](https://cabify.com/es) | [@cabify_espana](https://twitter.com/cabify_espana) | [Cabify](https://www.linkedin.com/company/cabify/) | [Madrid (Madrid)](https://goo.gl/maps/VP7dmqs4ZLU2) |
+| **Name** | **Sector** | **URL** | **Twitter** | **LinkedIn** | **Location** | **Hiring?** |
+|---:|:---|:---|:---|:---|:---|:---|
+| Bizneo HR | HR Software | [bizneo.com](https://www.bizneo.com/es/) | [@BizneoHR](https://twitter.com/BizneoHR) | [Bizneo](https://www.linkedin.com/company/bizneo/) | [Madrid (Madrid)](https://goo.gl/maps/VP7dmqs4ZLU2) | - |
+| Cabify | Transportation | [cabify.com](https://cabify.com/es) | [@cabify_espana](https://twitter.com/cabify_espana) | [Cabify](https://www.linkedin.com/company/cabify/) | [Madrid (Madrid)](https://goo.gl/maps/VP7dmqs4ZLU2) | [Yes](https://cabify.com/es/jobs) |
+
 
 ## Meetups
 
