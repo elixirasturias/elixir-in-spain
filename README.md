@@ -21,6 +21,7 @@ Spanish companies which use **Elixir** to build their products.
 | Bizneo HR | HR Software | [bizneo.com](https://www.bizneo.com/es/) | [Bizneo](https://www.linkedin.com/company/bizneo/) | [Madrid (Madrid)](https://goo.gl/maps/VP7dmqs4ZLU2) | - |
 | Cabify | Transportation | [cabify.com](https://cabify.com/es) | [Cabify](https://www.linkedin.com/company/cabify/) | [Madrid (Madrid)](https://goo.gl/maps/VP7dmqs4ZLU2) | [Yes](https://cabify.com/es/jobs) |
 | ninety nine | Market Finance | [ninetynine.com](https://www.ninetynine.com/) | [ninety nine](https://www.linkedin.com/company/ninety-nine-co/) | [Madrid (Madrid)](https://goo.gl/maps/7H7Z2L28CQ52) | - |
+| Pagantis | Fintech | [pagantis.com](https://www.pagantis.com/) | [pagantis](https://www.linkedin.com/company/pagantis/) | [Madrid (Madrid)](https://goo.gl/maps/bVofRxsjHqY8XeAN7) and [Barcelona (Cataluña)](https://goo.gl/maps/HK5RWVLQ6kteqXtM7) | - |
 | Stuart | Logistics | [stuart.com](https://stuart.com) | [Stuart](https://www.linkedin.com/company/stuart-sas/) | [Barcelona (Cataluña)](https://goo.gl/maps/LeF5aWtufdk) | - |
 | The Book Of Everyone | E-Commerce | [thebookofeveryone.com](https://thebookofeveryone.com/) | [The Book Of Everyone](https://www.linkedin.com/company/the-book-of-everyone/) | [Barcelona (Cataluña)](https://goo.gl/maps/LeF5aWtufdk) | - |
 
